@@ -1,16 +1,16 @@
 {
-"name": "bet777slot",
-"theme": "bet777 slot",
-"version": "5.6.9",
-"description": "bet777 slot สมัครสมาชิกเว็บไซต์พนันเว็บตรง อันดับ 1 ให้เครดิตฟรี",
-"keywords": [
-"bet777 slot",
-"bet777 slot เครดิตฟรี",
-"bet777 slot ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/bet777slot",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "bet777slot",
+  "theme": "bet777 slot",
+  "version": "5.7.0",
+  "description": "bet777 slot สมัครสมาชิกเว็บไซต์พนันเว็บตรง อันดับ 1 ให้เครดิตฟรี",
+  "keywords": [
+    "bet777 slot",
+    "bet777 slot เครดิตฟรี",
+    "bet777 slot ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/bet777slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
